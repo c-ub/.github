@@ -10,10 +10,9 @@
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 </p>
-
 ---
 **区块链技术（也称之为分布式账本技术）**，是一种互联网数据库技术，其特点是<font color =“green">去中心化，公开透明，信息不可篡改性，隐私匿名性</font>
-
+</br>
 
 <!--
 **Here are some ideas to get you started:**
@@ -27,10 +26,10 @@ t is your organization all about?
 -->
 ## 白皮书介绍
 + [白皮书介绍](https://github.com/C-UB/.github/blob/master/README.md)
-
+</br>
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
 [![Top contributors](https://images.repography.com/27154244/C-UB/cub/top-contributors/90b742d3f976f18b80621eaacc1f3142_table.svg)](https://github.com/C-UB/cub/graphs/contributors)
-
+</br>
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_timeline.svg)](https://github.com/C-UB/cub/commits)
