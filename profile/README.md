@@ -11,8 +11,7 @@
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 </p>
 ---
-区块链技术（也称之为分布式账本技术），是一种互联网数据库技术，其特点是<font color =“green">去中心化，公开透明，信息不可篡改性，隐私匿名性</font>
-</br>
+
 
 <!--
 **Here are some ideas to get you started:**
