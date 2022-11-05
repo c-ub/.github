@@ -9,8 +9,18 @@ t is your organization all about?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## 白皮书介绍
-+ [白皮书介绍](https://github.com/C-UB/.github/blob/master/README.md)
+
+
+## Introduction to White Paper
++ [🧷 Introduction to White Paper](https://github.com/C-UB/.github/blob/master/README.md)
+
+## What can you find？
+
+You can participate in every module. This is a completely open source community with blockchain Security, which helps you join open source, helps you learn, and allows you to become a contributor.
+
+It doesn't matter if you learn Java, Python, Go, Rust, C/C++, JavaScript, html, css, or even if you can write a great document, you're always welcome to cub. Even if you don't think you're a great CUB, we want you to be a CUB.
+
+If you'd like to join us, please contact us at cub@nsddd.top and include your GitHub address
 
   
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
@@ -22,9 +32,5 @@ t is your organization all about?
 [![Issue status graph](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_issues.svg)](https://github.com/C-UB/cub/issues)
 [![Pull request status graph](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_prs.svg)](https://github.com/C-UB/cub/pulls)
 [![Trending topics](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_words.svg)](https://github.com/C-UB/cub/commits)
-
-
-
-
 
 
