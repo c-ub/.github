@@ -1,6 +1,12 @@
 # 白皮书
 
-### c-universal blockchain（链学）
+> **Note**
+>
+> ![facebook_cover_photo_2](http://sm.nsddd.top/sm202305091626239.png)
+>
+> kubecub 旗下的 c-universal blockchain(cub)
+
+## c-universal blockchain（链学）
 
 或许你可以把 `C` 理解为 contribution 或者 commit 或者是 cloud ，总之，它有很多含义，或许你能找到属于自己的价值~
 
@@ -22,6 +28,7 @@ C-Universal Blockchain（CUB) 白皮书
 > “**每一件与众不同的绝世好东西，其实都是以无比寂寞的勤奋为前提的，要么是血，要么是汗，要么是大把大把的曼妙青春好时光**”。
 >
 > **Note**
+>
 > 在目前知网、百度文库备受争议的时代，在知识平台闭源的时代，致力于打造出开源的知识分享社区。
 >
 > 知识经济是协作的游戏，分享创造价值。我们相信知识的分享会推动更多的人参与创新，协同创造更多价值。
