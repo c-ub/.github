@@ -14,16 +14,14 @@
 
 ## 开始
 
-
-
-![](README.assets/fWLngjOqZcICS8v.png)
+![kubecub](http://sm.nsddd.top/sm202305091536401.png)
 
 C-Universal Blockchain（CUB) 白皮书
 -------------------------------
 
 > “**每一件与众不同的绝世好东西，其实都是以无比寂寞的勤奋为前提的，要么是血，要么是汗，要么是大把大把的曼妙青春好时光**”。
 >
-> 在目前知网、百度文库备受争议的时代，在知识平台闭源的时代，致力于打造出开源的知识分享社区。
+> Note 在目前知网、百度文库备受争议的时代，在知识平台闭源的时代，致力于打造出开源的知识分享社区。
 >
 > 知识经济是协作的游戏，分享创造价值。我们相信知识的分享会推动更多的人参与创新，协同创造更多价值。
 >
@@ -189,14 +187,14 @@ C-Universal Blockchain（CUB) 白皮书
 
 ### 高校应用场景
 
-![](README.assets/l38ygrKcXzjT6io.png)
+![sx](README.assets/l38ygrKcXzjT6io.png)
 
 技术架构
 ----
 
 ### 产品设计
 
-![](README.assets/d2GhLXT85zpftEl.png)
+![xz](README.assets/d2GhLXT85zpftEl.png)
 
 ### 产品介绍
 
@@ -398,12 +396,12 @@ Docker 之前有尝试过 redis 三主三从，扩容和缩容就目前掌握技
 
 ##### [Github 社区](https://github.com/C-UB)
 
-![](README.assets/LHO2C7nKZw3RuM9.png)
+![wer](README.assets/LHO2C7nKZw3RuM9.png)
 
 * * *
 
 ##### [知乎：链学者社区](https://www.zhihu.com/people/3293172751)
 
-![](README.assets/Rq7TbFrKkB3zZAe.jpg)
+![sadf](README.assets/Rq7TbFrKkB3zZAe.jpg)
 
 ![](CUB白皮书.assets/plQJ4ydO2WIqtu9.png)
