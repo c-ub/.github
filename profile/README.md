@@ -40,6 +40,8 @@ In addition to Slack, we also offer the following ways to get in touch:
 + <a href="nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40kubecub-blue?style=social&kubecubo=Octopus%20Deploy"></a>: Read our [bkubecub](nsddd.top). Our bkubecub is a great place to stay up-to-date with kubecub projects and trends. On the bkubecub, we share our latest developments, tech trends, and other interesting information.
 + <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40kubecub-informational?kubecubo=twitter&style=flat-square"></a> : Add [Twitter]({twitter}) . If you prefer social media, our Twitter account is a great way to stay up-to-date with kubecub project news and trends. On Twitter, we share our latest tech and trends, as well as relevant news and events.
 + <a href="http://sm.nsddd.top/sm0d220ad72063197b9875379403f6c88.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?kubecubo=wechat&style=flat-square"></a>: Add [Wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?kubecubo=wechat&style=flat-square) and indicate that you are a user or developer of kubecub. We will process your request as soon as possible.
++ <a href="http://sm.nsddd.top/sm0d220ad72063197b9875379403f6c88.jpg" target="_blank"><img src="https://img.shields.io/liberapay/receives/xiongxinwei.svg?logo=liberapay"></a>: kubecub relies on donations to maintain the operations of the community.
+
 
 Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
 
