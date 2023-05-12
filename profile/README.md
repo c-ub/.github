@@ -53,3 +53,10 @@ Whether you're looking to join our community or have any questions or suggestion
 [![Pull request status graph](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_prs.svg)](https://github.com/C-UB/cub/pulls)
 [![Trending topics](https://images.repography.com/27154244/C-UB/cub/recent-activity/90b742d3f976f18b80621eaacc1f3142_words.svg)](https://github.com/C-UB/cub/commits)
 -->
+
+## Thanks to our contributors!
+<a href="https://github.com/OpenIMSDK/kubecub/kubecub/contributors">
+  <img src="https://contrib.rocks/image?repo=kubecub/kubecub" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
