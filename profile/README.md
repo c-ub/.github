@@ -35,16 +35,6 @@ Our most recommended way to get in touch is through [Slack](https://join.slack.c
 
 In addition to Slack, we also offer the following ways to get in touch:
 
-
-
-## Contact Us
-
-We value close connections with our users, developers, and contributors here at kubecub. With a large community and maintainer team, we're always here to help and support you. Whether you're looking to join our community or have any questions or suggestions, we welcome you to get in touch with us.
-
-Our most recommended way to get in touch is through [Slack](https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ). Even if you're in China, Slack is usually not blocked by firewalls, making it an easy way to connect with us. Our Slack community is the ideal place to discuss and share ideas and suggestions with other users and developers of kubecub. You can ask technical questions, seek help, or share your experiences with other users of kubecub.
-
-In addition to Slack, we also offer the following ways to get in touch:
-
 + <a href="https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ" target="_blank"><img src="https://img.shields.io/badge/Slack-automation%2B-blueviolet?logo=slack&amp;logoColor=white"></a> We also have Slack channels for you to communicate and discuss. To join, visit https://slack.com/ and join our [👀 kubecub slack](https://join.slack.com/t/kubecub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ) team channel.
 + <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%40kubecub-blue?style=social&kubecubo=gmail&logo=gmail"></a> Get in touch with us on [📨Gmail: 3293172751nss@gmail.com](mailto:3293172751nss@gmail.com).  If you have any questions or issues that need resolving, or any suggestions and feedback for our open source projects, please feel free to contact us via email.
 + <a href="https://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40kubecub-blue?style=social&logo=Octopus%20Deploy&logoColor=red"></a> Read our [🤖kubecub](https://nsddd.top). Our kubecub is a great place to stay up-to-date with kubecub projects and trends. On the kubecub, we share our latest developments, tech trends, and other interesting information.
