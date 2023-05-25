@@ -57,8 +57,6 @@ Whether you're looking to join our community or have any questions or suggestion
 > This is not a private repository, kubecub's purpose is to help more people learn and progress. The sponsorship and contribution of kubecub will be open and transparent, and all the sponsorship proceeds will be used for good causes.
 
 ## Thanks to our contributors!
-<a href="https://github.com/OpenIMSDK/kubecub/kubecub/contributors">
+<a href="https://github.com/kubecub/kubecub/contributors">
   <img src="https://contrib.rocks/image?repo=kubecub/kubecub" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
