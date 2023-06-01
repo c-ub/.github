@@ -24,7 +24,7 @@ Whether you are learning Java, Python, Go, Rust, C/C++, JavaScript, HTML, CSS, o
 
 No matter whether you are an engineer, developer, or a student in school, or a newcomer who has just entered college, we can help you provide high-quality project selection and issues. Help developers improve their technical skills and engineering capabilities, and add rich experience to their resumes. 😃💻📈
 
-If you want to join us in learning and participating in open source, please comment in the [discussion area](https://github.com/orgs/kubecub/discussions/3) and leave your information, or contact me by email (leave your information). We will invite you to join. 💻🤝📧
+If you want to join us in learning and participating in open source, please comment in the [discussion area](https://github.com/orgs/kubecub/discussions/3) and leave your information, or contact [me by email](https://img.shields.io/badge/gmail-%40kubecub-blue?style=social&kubecubo=gmail&logo=gmail) (leave your information). We will invite you to join. 💻🤝📧
 
 ## Contact Us
 
@@ -44,8 +44,3 @@ Whether you're looking to join our community or have any questions or suggestion
 
 > **Note**
 > This is not a private repository, kubecub's purpose is to help more people learn and progress. The sponsorship and contribution of kubecub will be open and transparent, and all the sponsorship proceeds will be used for good causes.
-
-## Thanks to our contributors!
-<a href="https://github.com/kubecub/kubecub/contributors">
-  <img src="https://contrib.rocks/image?repo=kubecub/kubecub" />
-</a>
