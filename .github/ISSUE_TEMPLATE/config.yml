@@ -1,9 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Connect on slack
-    url: https://join.slack.com/t/c-ub/shared_invite/zt-1se0k2bae-lkYzz0_T~BYh3rjkvlcUqQ
-    about: Support OpenIM-related requests or issues, get in touch with developers and help on slack
-    contact_links:
-  - name: kubecub Blog
-    url: kubecub.nsdddd.top/
-    about: Open the kubeucb community blog
+  - name: 📢 Connect on slack
+    url: https://join.slack.com/t/kubecub/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg
+    about: Support kubecub-related requests or issues, get in touch with developers and help on slack
+  - name: 🌐 kubecub Blog
+    url: https://www.kubecub.online/
+    about: Open the kubecub community blog

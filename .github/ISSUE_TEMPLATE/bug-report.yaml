@@ -1,11 +1,14 @@
-name: Bug Report
-description: Report a bug encountered while operating OpenIM
+name: 🐛 Bug Report
+description: Report a bug encountered while operating kubecub
+title: "Bug: <describe the error>"
 labels: ["kind/bug"]
 body:
   - type: textarea
     id: problem
     attributes:
       label: What happened?
+      value:
+        <!-- ⚠️ Please ask questions in English. Thank you -->
       description: |
         Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
     validations:
@@ -36,12 +39,10 @@ body:
       label: version
       value: |
         <details>
-
         ```console
         $ {name} version
         # paste output here
         ```
-
         </details>
     validations:
       required: true
@@ -52,7 +53,6 @@ body:
       label: Cloud provider
       value: |
         <details>
-
         </details>
     validations:
       required: true
@@ -63,26 +63,21 @@ body:
       label: OS version
       value: |
         <details>
-
         ```console
         # On Linux:
         $ cat /etc/os-release
         # paste output here
         $ uname -a
         # paste output here
-
         # On Windows:
         C:\> wmic os get Caption, Version, BuildNumber, OSArchitecture
         # paste output here
         ```
-
         </details>
-
   - type: textarea
     id: installer
     attributes:
       label: Install tools
       value: |
         <details>
-
         </details>
