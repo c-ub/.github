@@ -1,10 +1,12 @@
 </br>
+<!--
 🫰 Thanks for sending a pull request!  Here are some tips for you:
 
 1. If this is your first time, please read our contributor guidelines: 
 📇 https://github.com/kubecub/community/blob/main/CONTRIBUTING.md
-kubecub
+
 2. Ensure you have added or ran the appropriate tests for your PR:
+-->
 
 #### 🔍 What type of PR is this?
 <!--
@@ -55,7 +57,7 @@ Fixes #
 
 
 
-#### 📑 Additional documentation e.g., KEPs (kubecub Enhancement Proposals), usage docs, etc.:
+#### 📑 Additional documentation e.g., RFC, notion, Google docs, usage docs, etc.:
 <!--
 This section can be blank if this pull request does not require a release note.
 
@@ -67,4 +69,4 @@ specific point in time, rather than a document that may change over time.
 In the sharers Guide, we recommend the following documents:
 1. Using GitHub RFCs template: https://github.com/kubecub/community/blob/main/0000-template.md
 2. Use Google Docs OR Notion and share it with the community.
--->kubecub
+-->
